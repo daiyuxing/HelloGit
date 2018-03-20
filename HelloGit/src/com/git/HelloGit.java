@@ -7,6 +7,7 @@ public class HelloGit {
 		String b="e";
 		String c="l";
 		String d="o";
+		String e="Git";
 		System.out.print(a+b+c+c+d);
 		System.out.println("Hello Git !");
 	}
